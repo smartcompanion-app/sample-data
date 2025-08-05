@@ -222,77 +222,107 @@
   "texts": [
     {
       "language": "de",
-      "key": "change_language",
+      "key": "menu-overview",
+      "value": "Übersicht"
+    },
+    {
+      "language": "en",
+      "key": "menu-overview",
+      "value": "Overview"
+    },
+    {
+      "language": "es",
+      "key": "menu-overview",
+      "value": "Resumen"
+    },
+    {
+      "language": "de",
+      "key": "menu-selection",
+      "value": "Auswahl"
+    },
+    {
+      "language": "en",
+      "key": "menu-selection",
+      "value": "Selection"
+    },
+    {
+      "language": "es",
+      "key": "menu-selection",
+      "value": "Selección"
+    },
+    {
+      "language": "de",
+      "key": "menu-language",
       "value": "Sprache \u00e4ndern"
     },
     {
       "language": "en",
-      "key": "change_language",
+      "key": "menu-language",
       "value": "Change language"
     },
     {
       "language": "es",
-      "key": "change_language",
+      "key": "menu-language",
       "value": "Cambiar idioma"
     },
     {
       "language": "de",
-      "key": "no_internet",
+      "key": "no-internet",
       "value": "Keine Internetverbindung"
     },
     {
       "language": "en",
-      "key": "no_internet",
+      "key": "no-internet",
       "value": "No Internet Connection"
     },
     {
       "language": "es",
-      "key": "no_internet",
+      "key": "no-internet",
       "value": "Sin conexión a Internet"
     },
     {
       "language": "de",
-      "key": "try_again",
+      "key": "try-again",
       "value": "Wiederholen"
     },
     {
       "language": "en",
-      "key": "try_again",
+      "key": "try-again",
       "value": "Try again"
     },
     {
       "language": "es",
-      "key": "try_again",
+      "key": "try-again",
       "value": "Vuelve a intentarlo"
     },
     {
       "language": "de",
-      "key": "enter_pin",
+      "key": "enter-pin",
       "value": "Bitte geben Sie den PIN-Code ein, den Sie im Ticketshop erhalten haben."
     },
     {
       "language": "en",
-      "key": "enter_pin",
+      "key": "enter-pin",
       "value": "Please enter the PIN code you received at the ticket store."
     },
     {
       "language": "es",
-      "key": "enter_pin",
+      "key": "enter-pin",
       "value": "Introduce el código PIN que recibiste en la tienda de entradas."
     },
     {
       "language": "de",
-      "key": "pin_error",
+      "key": "pin-error",
       "value": "Der eingegebene PIN-Code ist falsch."
     },
     {
       "language": "en",
-      "key": "pin_error",
+      "key": "pin-error",
       "value": "The entered PIN code is incorrect."
     },
     {
       "language": "es",
-      "key": "pin_error",
+      "key": "pin-error",
       "value": "El código PIN introducido es incorrecto."
     }
   ]
