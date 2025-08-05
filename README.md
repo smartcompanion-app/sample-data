@@ -2,6 +2,8 @@
 
 This repository holds sample data to demonstrate features of SmartCompanion apps.
 
-## Samples
+## Animals
 
- - Animals: Multilanguage tour of animal stations
+Multilanguage tour of animal stations
+
+
